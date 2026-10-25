@@ -1,54 +1,21 @@
-## 💻 C++ Programming Practice
+## C++ Programming Practice
 
-Welcome to my **C++ Programming Practice** repository! 🚀
+Welcome to my **C++ Programming Practice** repository! 
 
 This repository is where I document my journey of learning C++, strengthening my programming fundamentals, and solving **Data Structures and Algorithms (DSA)** problems.
 
 My goal is to build a strong foundation in programming, improve my problem-solving abilities, and gradually progress towards more advanced concepts.
 
-## 🎯 Objectives
+##  Objectives
 
-- 📚 Learn and strengthen C++ programming fundamentals.
-- 🧠 Improve logical thinking and problem-solving skills.
-- 💡 Practice Data Structures and Algorithms (DSA).
-- ⚡ Write clean, readable, and efficient code.
-- 📈 Track my progress as I explore more advanced programming concepts.
+-  Learn and strengthen C++ programming fundamentals.
+-  Improve logical thinking and problem-solving skills.
+-  Practice Data Structures and Algorithms (DSA).
+-  Write clean, readable, and efficient code.
+-  Track my progress as I explore more advanced programming concepts.
 
-## 📂 Repository Structure
 
-```text
-C++-Programming-Practice/
-│
-├── Basics/
-│   ├── variables.cpp
-│   ├── conditionals.cpp
-│   └── loops.cpp
-│
-├── Functions/
-│   └── functions.cpp
-│
-├── Arrays-and-Strings/
-│   ├── arrays.cpp
-│   └── strings.cpp
-│
-├── OOP/
-│   └── classes-and-objects.cpp
-│
-├── DSA/
-│   ├── Searching/
-│   ├── Sorting/
-│   ├── Recursion/
-│   ├── Linked-Lists/
-│   ├── Stacks-and-Queues/
-│   ├── Trees/
-│   └── Graphs/
-│
-└── README.md
-```
-
-*Note: The folder structure will evolve as I learn new concepts and solve more problems.*
-
-## 📚 Topics Covered
+## Topics Covered
 
 ### C++ Fundamentals
 - Variables and Data Types
