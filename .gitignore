@@ -1,4 +1,3 @@
-
 # Ignore compiled C++ executables
 *.exe
 
